@@ -1,0 +1,59 @@
+.card{
+    background-color: rgb(233, 163, 73);
+    height: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card1{
+    margin-left: 20px;
+}
+.card1__p{
+    margin-left: 10px;
+}
+
+.card2{
+    margin-left: 20px;
+}
+.card2__p{
+    line-height: 1.5;
+}
+.card3{
+    margin-left: 20px;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.card3__li{
+    list-style: none
+}
+.card3__head{
+    text-align: center;
+}
+.card4__li{
+    list-style: none;
+}
+.card4{
+    margin-left: 20px;
+    background-color: yellowgreen;
+    width: 400px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    height: 200px;
+}
+
+.card4__head{
+    margin-left: 20px;
+}
+.card5{
+    background-color: rgb(50, 77, 101);
+    
+}
+.card5__a{
+    text-decoration: none;
+    color: aliceblue;
+}
